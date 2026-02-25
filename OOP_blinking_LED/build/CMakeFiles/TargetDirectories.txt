@@ -1,3 +1,0 @@
-/home/ignat/cpp_projects/intensiv/Hardware-Applicatios/OOP_blinking_LED/build/CMakeFiles/stm32_baremetal.dir
-/home/ignat/cpp_projects/intensiv/Hardware-Applicatios/OOP_blinking_LED/build/CMakeFiles/edit_cache.dir
-/home/ignat/cpp_projects/intensiv/Hardware-Applicatios/OOP_blinking_LED/build/CMakeFiles/rebuild_cache.dir
