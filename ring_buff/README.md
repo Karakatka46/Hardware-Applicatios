@@ -6,3 +6,12 @@
 ## Особенности
 - Fixed-point арифметика
 - ООП стиль
+- CMake сборка
+
+## Запуск
+```Bash
+mkdir build && cd build
+cmake ..
+make
+./ringBuff
+```
